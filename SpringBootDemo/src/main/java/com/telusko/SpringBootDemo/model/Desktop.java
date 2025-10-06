@@ -1,4 +1,4 @@
-package com.telusko.SpringBootDemo;
+package com.telusko.SpringBootDemo.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
